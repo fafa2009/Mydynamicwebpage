@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Simple Calculator",
+      "description": "A basic calculator built using HTML, CSS, and JavaScript.",
+      "link": "https://yourgithub.io/simple-calculator"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "My personal responsive portfolio with interactive features.",
+      "link": "https://yourgithub.io/my-portfolio"
+    },
+    {
+      "title": "Weather App",
+      "description": "Fetches live weather data using an API and shows results by city.",
+      "link": "https://yourgithub.io/weather-app"
+    }
+  ]
+}
